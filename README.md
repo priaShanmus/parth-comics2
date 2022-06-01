@@ -1,1 +1,1 @@
-# parth-comics2
+# Comic-Store-2
